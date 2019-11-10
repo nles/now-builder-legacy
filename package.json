@@ -1,8 +1,8 @@
 {
-  "name": "@nuxtjs/now-builder",
-  "version": "0.14.6",
+  "name": "saavuio-nuxt-now-builder-legacy",
+  "version": "0.0.1",
   "license": "MIT",
-  "repository": "nuxt/now-builder",
+  "repository": "https://github.com/nles/now-builder-legacy",
   "main": "lib/index.js",
   "files": [
     "lib"
